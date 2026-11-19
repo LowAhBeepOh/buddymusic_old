@@ -1,5 +1,7 @@
-# Buddy Music
+# Buddy Music (OLD!!!)
 An offline music player from the Buddy project/ecosystem.
+
+**THIS IS THE OLDEST VERSION OF BUDDY MUSIC! ANOTHER ONE IS ON ITS WAY TO BE PUBLISHED, AFTER AROUND A FEW WEEKS OR MONTHS.**
 
 ## Plans for now (NEW)
 I'm currently working on the newer Buddy Music, the name won't change, but I will say that after the newer Buddy Music comes out (either in version 0.XF or 0.A), everything mentioned here you might lose your data on: Everything. Yes, in the newest version there's a 99% chance all your data here will be deleted. This is because I want to code the database names to be more universal, so that it has more flow with other apps, and so I won't need to visit and inspect my own website(s) / code just to recall what the database names was.
